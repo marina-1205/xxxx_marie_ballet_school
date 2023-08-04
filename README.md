@@ -24,8 +24,8 @@
 ・衣装にお困りバレエスクールや事業様が衣装レンタル予約利用する時<br>
 ​
 ## 設計書
-後ほど作成予定
-​
+後ほど作成予定<br>
+
 ## 開発環境
 ・OS：Linux(CentOS)<br>
 ・言語：HTML,CSS,JavaScript,Ruby,SQL<br>
